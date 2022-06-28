@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Kulitskov/react-sitee/static/css/main.387c0bad.css",
+    "main.js": "/Kulitskov/react-sitee/static/js/main.1a7740e7.js",
+    "static/js/787.7ec122fa.chunk.js": "/Kulitskov/react-sitee/static/js/787.7ec122fa.chunk.js",
+    "static/media/p6.png": "/Kulitskov/react-sitee/static/media/p6.fe30e029393c51505875.png",
+    "static/media/p13.png": "/Kulitskov/react-sitee/static/media/p13.faa1f9ec1df2b9065f62.png",
+    "static/media/p7.png": "/Kulitskov/react-sitee/static/media/p7.bcc6a52120e99f728b72.png",
+    "static/media/p10.png": "/Kulitskov/react-sitee/static/media/p10.d6b7c8023318064a3395.png",
+    "static/media/p12.png": "/Kulitskov/react-sitee/static/media/p12.63084525c20f64c9f63a.png",
+    "static/media/p19.png": "/Kulitskov/react-sitee/static/media/p19.ea791be4e669f7a7e0da.png",
+    "static/media/p4.png": "/Kulitskov/react-sitee/static/media/p4.7054733cfd6630b12574.png",
+    "static/media/p20.png": "/Kulitskov/react-sitee/static/media/p20.f5b92d585bc5f725b283.png",
+    "static/media/p5.png": "/Kulitskov/react-sitee/static/media/p5.c66d8eaa1f23e7321bb2.png",
+    "static/media/p1.png": "/Kulitskov/react-sitee/static/media/p1.82fcb8d4075b8583baaa.png",
+    "static/media/p9.png": "/Kulitskov/react-sitee/static/media/p9.c6a3c3ade5491086fd49.png",
+    "static/media/p8.png": "/Kulitskov/react-sitee/static/media/p8.6178ec10464e71b6cb40.png",
+    "static/media/p14.png": "/Kulitskov/react-sitee/static/media/p14.1d7503b97cffaa02414c.png",
+    "static/media/p11.png": "/Kulitskov/react-sitee/static/media/p11.9da0b441eddb4e89f422.png",
+    "static/media/p3.png": "/Kulitskov/react-sitee/static/media/p3.f092f14d7c7a96c8fc6e.png",
+    "static/media/p18.png": "/Kulitskov/react-sitee/static/media/p18.d95e4a4310bc1944eaf7.png",
+    "static/media/p16.png": "/Kulitskov/react-sitee/static/media/p16.9b368970d748eb1257ee.png",
+    "static/media/avatar.jpg": "/Kulitskov/react-sitee/static/media/avatar.5af950790bc59584a18a.jpg",
+    "static/media/p15.png": "/Kulitskov/react-sitee/static/media/p15.5465bd1d109431280256.png",
+    "static/media/p17.png": "/Kulitskov/react-sitee/static/media/p17.ffce45f10890c88e51b6.png",
+    "static/media/p2.png": "/Kulitskov/react-sitee/static/media/p2.d6c6d11e4e11b33405c5.png",
+    "static/media/HandWithEye.gif": "/Kulitskov/react-sitee/static/media/HandWithEye.cb651c01def7ae641f45.gif",
+    "static/media/github.svg": "/Kulitskov/react-sitee/static/media/github.d1bb13ce1a593d82e4c0d821dc7f1b41.svg",
+    "static/media/telegram.svg": "/Kulitskov/react-sitee/static/media/telegram.194a7795f2ca9ce67ba3df939b767705.svg",
+    "static/media/facebook.svg": "/Kulitskov/react-sitee/static/media/facebook.32d3bfd4b391fe4c40badb5309b0a1da.svg",
+    "index.html": "/Kulitskov/react-sitee/index.html",
+    "main.387c0bad.css.map": "/Kulitskov/react-sitee/static/css/main.387c0bad.css.map",
+    "main.1a7740e7.js.map": "/Kulitskov/react-sitee/static/js/main.1a7740e7.js.map",
+    "787.7ec122fa.chunk.js.map": "/Kulitskov/react-sitee/static/js/787.7ec122fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.387c0bad.css",
+    "static/js/main.1a7740e7.js"
+  ]
+}
